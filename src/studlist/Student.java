@@ -2,7 +2,7 @@
 package studlist;
 
 /**
- * 
+ * hello everyone from Abdul
  * @author Megha Patel 
  */
 public class Student {
